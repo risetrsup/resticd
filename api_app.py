@@ -57,6 +57,10 @@ label_encoder_name = 'label_encoder.pkl'
 saved_model_name = 'indobert_bigru_model.pth'
 model_id = '1sMDAEvH4tHDLAYCaFLBnj3BN4hzY5NQd'
 
+model_id = '1-4f9SfmaTLFKPliRnf95HKG2apJI6NWe'
+bert_model_name = ''bert-base-uncased'
+label_encoder_name = 'label_encoder.pkl'
+saved_model_name = 'bert_bigru_model.pth'
 # In[13]:
 
 
