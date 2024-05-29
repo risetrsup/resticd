@@ -1,6 +1,6 @@
 torch
 transformers
 gdown
-fastapi 
-pydantic
 pickle
+fastapi==0.78.0
+pydantic==1.9.0
