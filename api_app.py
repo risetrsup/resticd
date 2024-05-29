@@ -34,11 +34,8 @@
 # In[24]:
 
 
-from fastapi import FastAPI
-from pydantic import BaseModel
-import joblib
 
-import streamlit as st
+#import streamlit as st
 import torch
 import torch.nn as nn
 from transformers import BertTokenizer, BertModel
@@ -49,7 +46,6 @@ import gdown
 
 from fastapi import FastAPI
 from pydantic import BaseModel
-import torch
 
 
 # In[18]:

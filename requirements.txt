@@ -1,10 +1,6 @@
-streamlit
 torch
 transformers
-pandas
-scikit-learn
 gdown
-fastapi
-uvicorn   
-requests
-joblib
+fastapi 
+pydantic
+pickle
